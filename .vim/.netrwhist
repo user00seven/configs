@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/user007/.config/awesome'
+let g:netrw_dirhist_3='/home/user007/.config/awesome/awesome-wm-widgets/logout-menu-widget'
+let g:netrw_dirhist_2='/etc/audit'
+let g:netrw_dirhist_1='/home/user007/.config/awesome'
+let g:netrw_dirhist_0='/usr/share/awesome/lib/awful/layout'
+let g:netrw_dirhist_9='/usr/share/awesome/lib/awful'
+let g:netrw_dirhist_8='/usr/share/awesome/lib/awful/layout'
+let g:netrw_dirhist_7='/usr/share/awesome/lib/naughty'
+let g:netrw_dirhist_6='/home/user007/wd/python/Tkinter/Test.py'
+let g:netrw_dirhist_5='/home/user007/.config/awesome'
