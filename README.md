@@ -1,6 +1,6 @@
-#config file 
+# config file 
 
-#required package:
+# required package:
 zsh         {.zshrc, .p10k.conf }
 vim         {.vimrc, .vim } 
 tmux        {.tmux.conf, .tmux}
